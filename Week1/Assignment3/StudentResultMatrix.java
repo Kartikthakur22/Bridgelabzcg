@@ -43,5 +43,6 @@ public class StudentResultMatrix {
         for(int i=0;i<n;i++){
             System.out.println("Result of student "+i+1+"-> Marks in physics:"+marks[i][0]+" Marks in maths:"+marks[i][2]+" Marks in chem:"+marks[i][1]+" Grade:"+grades[i]+" Percentage:"+percentage[i]);
         }
+        sc.close();
     }
 }

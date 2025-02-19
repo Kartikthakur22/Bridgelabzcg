@@ -2,8 +2,6 @@ package Week1.Assignment3;
 
 import java.util.Scanner;
 
-import Week1.Assignment2.marks;
-
 public class StudentResult {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
