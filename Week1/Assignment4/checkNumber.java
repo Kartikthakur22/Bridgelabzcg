@@ -2,7 +2,7 @@ package Week1.Assignment4;
 
 import java.util.Scanner;
 
-public class checkNumber {
+public class CheckNumber {
     public static boolean isPositive(int n){
         if(n>0){
             return true;
